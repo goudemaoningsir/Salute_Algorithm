@@ -17,8 +17,3 @@
 - [algorithm-tutorial](https://github.com/dunwu/algorithm-tutorial)
 
 
-
-## Reference
-
-- [Hello 算法](https://github.com/krahets/hello-algo)
-
