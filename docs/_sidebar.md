@@ -17,11 +17,12 @@
   - [队列](sections/队列/队列.md)
   - [双向队列](sections/队列/双向队列.md)
 
-- 哈希
+- **哈希**
   - [哈希表](sections/哈希/哈希表.md)
   - [哈希冲突](sections/哈希/哈希冲突.md)
-
-- 树
+  - [哈希算法](sections/哈希/哈希算法.md)
+  
+- **树**
   - [二叉树](sections/树/二叉树.md)
   - [AVL树](sections/树/AVL树.md)
 

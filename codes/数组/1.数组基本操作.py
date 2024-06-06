@@ -12,11 +12,6 @@ def create_array(value, size):
 arr = create_array(None, 5)
 
 
-# # 创建一个包含初始元素的数组
-# arr = [1, 2, 3, 4, 5]
-# print("初始数组:", arr)  # 初始数组: [1, 2, 3, 4, 5]
-
-
 @log_operation
 def random_access(nums: list[int]) -> int:
     """随机访问数组中的一个元素"""
